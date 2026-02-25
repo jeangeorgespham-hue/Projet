@@ -1,2 +1,1 @@
-#exo-boucle-python
-Exercices pour l'entrainement des boucle en python en python.
+Voici quelques exo que j'ai pu realisé au cour de mon apprentissage.
