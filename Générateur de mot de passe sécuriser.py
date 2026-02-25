@@ -1,4 +1,4 @@
-#exo18
+
 import random
 lettre_liste =['a', 'z', 'e', 'r', 't', 'y', 'u', 'i', 'o', 'p', 'm', 'l', 'k', 'j', 'h', 'g', 'f', 'd', 's', 'q', 'w', 'x', 'c', 'v', 'b', 'n', 'A', 'Z', 'E', 'R', 'T', 'Y', 'U', 'I', 'O', 'P', 'M', 'L' ,'K', 'J', 'H', 'G', 'F', 'D', 'S', 'Q', 'W', 'X','C','V','B','N']
 nombre_liste =['1','2','3','4','5','6','7','8','9']
@@ -65,4 +65,5 @@ if liste_complete:
         print('Votre mot de passe est:')
         for i in range(longueur):
                 x = random.choice(liste_complete)
+
                 print(x , end='')
