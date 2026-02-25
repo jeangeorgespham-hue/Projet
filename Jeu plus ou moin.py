@@ -1,4 +1,4 @@
-#exo 11
+
 import random
 erreur = 0
 historique = []
@@ -57,3 +57,4 @@ if histo.lower() == 'oui':
     print("Merci d'avoir jouer!")
 else:
     print("Merci d'avoir jouer!") 
+
