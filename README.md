@@ -1,2 +1,2 @@
-# Boucle-python-exo
-Exercices pour l'entrainement au boucle en python.
+#exo-python
+Exercices pour l'entrainement en python.
