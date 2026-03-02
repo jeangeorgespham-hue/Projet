@@ -1,9 +1,13 @@
-mot = input('Choisir un mot: ')
-mot_inverse = ''
-for i in mot:
-    mot_inverse = i + mot_inverse
+def palindrome(mot):
+    mot_inverser = ''
+    for i in mot:
+        mot_inverser = i + mot_inverser
+    if mot_inverser.lower() == mot.lower():
+        return True
+    else:
+        return False
 
-if mot_inverse.lower() == mot.lower():
-    print("votre mot se lit pareil à l'envers")
-else:
-    print("Votre mot ne se lit pas à l'envers", mot_inverse)
+#teste
+print(palindrome('kayak'))
+print(palindrome('bateau'))
+print(palindrome('mot'))
