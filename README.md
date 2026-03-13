@@ -1,1 +1,1 @@
-Voici quelque projet que j'ai réaliser durant mon apprentissage.
+Voici quelque projet que j'ai réalisé durant mon apprentissage.
