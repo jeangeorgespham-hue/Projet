@@ -1,2 +1,0 @@
-Fonctionnalités
-Algorithme de recherche linéaire : Parcourt la liste une seule fois.Gestion d'erreur : Retourne None si la liste est vide, évitant ainsi les plantages (IndexError).Logique par index : Utilise le suivi de l'index pour une manipulation précise des données.
