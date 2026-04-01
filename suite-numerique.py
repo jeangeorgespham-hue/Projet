@@ -2,7 +2,7 @@
 print('Suite arithmetique = 1')
 print('Suite geometrique = 2')
 print('Suite par division = 3')
-print('Suite par exponentiel = 4')
+print('Suite par puissance = 4')
 suite = int(input('Quelle suite?: '))
 premier_terme =  int(input('Premier terme en u0?: '))
 nombre_de_terme = int(input('Nombre de terme?: '))
